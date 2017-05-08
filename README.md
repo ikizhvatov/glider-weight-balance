@@ -13,5 +13,5 @@ There is also a max total weight constraint
     f + b <= const        (3)
 
 where const depends on the weight of the other stuff onboard.
-E.g. for NijAC gliders NF and NZ it is 194 and 220, correspondingly
-Interestingly, because (1) and (2) it is never reached.
+E.g. for NijAC gliders NF and NZ it is 194 and 220, correspondingly.
+Interestingly, these limits are never reached because of (1) and (2).
